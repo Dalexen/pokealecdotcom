@@ -1,0 +1,109 @@
+HTTrack3.49-2 launched on Sat, 27 Dec 2025 11:51:20 at https://pokealec.com/ https://nonprofit.pokealec.com/ https://pokealec.com/practice.pokealec.com/ https://practice.pokealec.com/ https://practice.pokealec.com/?page_id=10 https://practice.pokealec.com/?page_id=2 https://practice.pokealec.com/?cat=1
+(winhttrack https://pokealec.com/ https://nonprofit.pokealec.com/ https://pokealec.com/practice.pokealec.com/ https://practice.pokealec.com/ https://practice.pokealec.com/?page_id=10 https://practice.pokealec.com/?page_id=2 https://practice.pokealec.com/?cat=1 -O "/Users/ngw/websites/pokealecdotcom" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:54:14	Error: 	"Forbidden" (403) at link https://pokealec.com/cgi-bin/ (from https://pokealec.com/)
+11:54:14	Error: 	"Not Found" (404) at link https://pokealec.com/nonprofit.pokealec.com/ (from https://pokealec.com/)
+11:54:14	Error: 	"Method Not Allowed" (405) at link https://nonprofit.pokealec.com/xmlrpc.php (from https://nonprofit.pokealec.com/)
+11:54:15	Warning: 	Note: due to stats.wp.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+11:54:15	Warning: 	Moved Permanently for stats.wp.com/
+11:54:15	Warning: 	File has moved from stats.wp.com/ to https://wordpress.com/
+11:54:16	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://nonprofit.pokealec.com/)
+11:54:35	Warning: 	Moved Permanently for nonprofit.pokealec.com/?wordfence_lh=1&hid=C13C1B4F1F6F63B847A017A4F534E1E9
+11:54:35	Warning: 	Redirected link is identical because of 'URL Hack' option: nonprofit.pokealec.com/?wordfence_lh=1&hid=C13C1B4F1F6F63B847A017A4F534E1E9 and https://nonprofit.pokealec.com/?wordfence_lh=1&hid=C13C1B4F1F6F63B847A017A4F534E1E9
+11:54:35	Warning: 	File has moved from nonprofit.pokealec.com/?wordfence_lh=1&hid=C13C1B4F1F6F63B847A017A4F534E1E9 to https://nonprofit.pokealec.com/?wordfence_lh=1&hid=C13C1B4F1F6F63B847A017A4F534E1E9
+11:54:40	Error: 	"Method Not Allowed" (405) at link https://practice.pokealec.com/xmlrpc.php (from https://pokealec.com/practice.pokealec.com/)
+11:55:23	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://fonts.gstatic.com/robots.txt (from https://pokealec.com/practice.pokealec.com/)
+11:55:23	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://pokealec.com/practice.pokealec.com/)
+11:57:23	Error: 	"Receive Time Out" (-2) after 2 retries at link practice.pokealec.com/robots.txt (from https://pokealec.com/practice.pokealec.com/)
+11:58:15	Error: 	"Not Found" (404) at link https://pokealec.com/talks.html (from https://pokealec.com/practice.pokealec.com/)
+11:58:15	Error: 	"Not Found" (404) at link https://practice.pokealec.com/talks.html (from https://practice.pokealec.com/)
+11:58:15	Warning: 	Moved Permanently for https://practice.pokealec.com/?p=10
+11:58:15	Warning: 	File has moved from https://practice.pokealec.com/?p=10 to https://practice.pokealec.com/?page_id=10
+11:58:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 7527374 got 3120476): fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf
+11:59:12	Warning: 	Moved Permanently for https://practice.pokealec.com/?p=2
+11:59:12	Warning: 	File has moved from https://practice.pokealec.com/?p=2 to https://practice.pokealec.com/?page_id=2
+11:59:12	Warning: 	Found for https://practice.pokealec.com/wp-admin/
+11:59:12	Warning: 	File has moved from https://practice.pokealec.com/wp-admin/ to https://practice.pokealec.com/wp-login.php?redirect_to=https%3A%2F%2Fpractice.pokealec.com%2Fwp-admin%2F&reauth=1
+11:59:46	Warning: 	Moved Permanently for https://nonprofit.pokealec.com/?wordfence_lh=1%26hid=C13C1B4F1F6F63B847A017A4F534E1E9
+11:59:46	Warning: 	File has moved from https://nonprofit.pokealec.com/?wordfence_lh=1%26hid=C13C1B4F1F6F63B847A017A4F534E1E9 to https://nonprofit.pokealec.com/?wordfence_lh=1%26hid%3DC13C1B4F1F6F63B847A017A4F534E1E9
+11:59:46	Error: 	"Not Found" (404) at link https://docs.google.com/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw/POST (from https://docs.google.com/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw/edit?usp=sharing)
+11:59:47	Warning: 	Retry after error -4 (Incorrect length (3120476 Bytes, 7527374 expected)) at link fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf (from https://docs.google.com/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw/edit?usp=sharing)
+11:59:47	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://practice.pokealec.com/wp-content/themes/Divi/style.css (from https://practice.pokealec.com/wp-content/themes/smol-divi/style.css?ver=1.0)
+12:01:57	Warning: 	Unexpected socket error during pre-loop
+12:03:19	Warning: 	Unexpected socket error during pre-loop
+12:05:23	Warning: 	Unexpected socket error during pre-loop
+12:06:07	Warning: 	Unexpected socket error during pre-loop
+12:08:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 7527374 got 7402714): fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf
+12:09:28	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon)
+12:09:28	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon)
+12:09:28	Warning: 	Retry after error -4 (Incorrect length (7402714 Bytes, 7527374 expected)) at link fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf (from https://docs.google.com/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw/edit?usp=sharing)
+12:09:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://practice.pokealec.com/wp-content/themes/Divi/style.css (from https://practice.pokealec.com/wp-content/themes/smol-divi/style.css?ver=1.0)
+12:09:28	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ6A.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:09:28	Warning: 	Retry after error -4 (Receive Error) at link https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK9g.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:09:51	Warning: 	Unexpected socket error during pre-loop
+12:09:51	Warning: 	Unexpected socket error during pre-loop
+12:09:52	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSA.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:09:52	Warning: 	Retry after error -4 (Receive Error) at link https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLQ.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:10:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/quick-summary-of-the-book-of-mormon (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:10:13	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:10:13	Warning: 	Retry after error -4 (Receive Error) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:10:35	Warning: 	Retry after error -4 (Receive Error) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:10:35	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/what-is-the-holy-bible (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/how-the-bible-and-the-book-of-mormon-work-together)
+12:10:35	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/how-the-bible-and-the-book-of-mormon-work-together)
+12:10:57	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/following-jesus-christ (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/jesus-in-the-book-of-mormon)
+12:18:04	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/overview-series/god-loves-you (from https://www.churchofjesuschrist.org/comeuntochrist/believe/god/what-is-the-holy-spirit)
+12:18:04	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/god/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/god/what-is-the-holy-spirit)
+12:18:04	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/god/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/god/what-is-the-holy-spirit)
+12:18:04	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/god/10-meaniningful-benefits-of-prayer (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/8-things-the-book-of-mormon-teaches-about-god)
+12:18:04	Error: 	"Error when decompressing" (-1) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/8-things-the-book-of-mormon-teaches-about-god)
+12:18:04	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/god/god-is-there-for-you (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/purpose-of-life-in-the-book-of-mormon)
+12:28:17	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/because-of-him (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/repentance-and-forgiveness-in-book-of-mormon)
+12:28:17	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/study-tips (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/prayer-in-the-book-of-mormon)
+12:28:20	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/5-teachings-of-jesus-that-will-improve-your-life (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus)
+12:28:20	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/attributes-of-christ (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus)
+12:28:26	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/does-jesus-understand-how-i-feel (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus)
+12:28:26	Error: 	"Incorrect length (7485698 Bytes, 7527374 expected)" (-4) after 2 retries at link fonts.gstatic.com/s/notocoloremoji/v10/Yq6P-KqIXTD0t4D9z1ESnKM3-HpFWRxHy9A.ttf (from https://docs.google.com/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw/edit?usp=sharing)
+12:28:26	Error: 	"error:00000001:lib(0)::reason(1)" (-5) after 2 retries at link https://practice.pokealec.com/wp-content/themes/Divi/style.css (from https://practice.pokealec.com/wp-content/themes/smol-divi/style.css?ver=1.0)
+12:28:26	Warning: 	Retry after error -4 (Receive Error) at link https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ6A.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:28:26	Warning: 	Retry after error -4 (Receive Error) at link https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK9g.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:28:26	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSA.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:28:26	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLQ.ttf (from https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap)
+12:28:29	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/quick-summary-of-the-book-of-mormon (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:29	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:29	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:29	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:30	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/what-is-the-holy-bible (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/how-the-bible-and-the-book-of-mormon-work-together)
+12:28:32	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/how-the-bible-and-the-book-of-mormon-work-together)
+12:28:33	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/god/how-to-pray (from https://www.churchofjesuschrist.org/comeuntochrist/believe/god/gods-love)
+12:28:36	Warning: 	Retry after error -5 (error:00000001:lib(0)::reason(1)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/videos)
+12:28:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/videos)
+12:28:42	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/videos)
+12:28:42	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/videos)
+12:28:44	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/how-can-i-receive-forgiveness-from-god)
+12:28:44	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/how-can-i-receive-forgiveness-from-god)
+12:28:44	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible/8-lessons-from-the-sermon-on-the-mount (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/50-names-for-jesus)
+12:28:45	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/what-happens-after-we-die (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/50-names-for-jesus)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/what-is-the-book-of-mormon)
+12:28:50	Error: 	"Error when decompressing" (-1) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/bible (from https://www.churchofjesuschrist.org/comeuntochrist/believe/book-of-mormon/how-the-bible-and-the-book-of-mormon-work-together)
+12:28:50	Error: 	Unable to save file /Users/ngw/websites/pokealecdotcom/www.churchofjesuschrist.org/comeuntochrist/believe/bible: Is a directory
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/videos)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus/videos)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/the-church-of-jesus-christ-is-restored)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/restoration/the-church-of-jesus-christ-is-restored)
+12:28:50	Error: 	"Error when decompressing" (-1) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus (from https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/how-can-i-forgive-others)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/how-can-i-cope-with-the-loss-of-a-loved-one (from https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/how-can-i-forgive-others)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/becoming-like-jesus/how-can-i-receive-forgiveness-from-god)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/who-am-i (from https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/how-can-i-get-through-hard-things (from https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/4-ways-to-find-peace-in-hard-times (from https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/GET (from https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose)
+12:28:50	Error: 	"Not Found" (404) at link https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/POST (from https://www.churchofjesuschrist.org/comeuntochrist/believe/life-has-purpose/your-life-has-a-purpose)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 minutes 30 seconds : 284 links scanned, 193 files written (37339183 bytes overall) [30762933 bytes received at 13672 bytes/sec], 37219798 bytes transferred using HTTP compression in 198 files, ratio 27%, 1.6 requests per connection
+(48 errors, 50 warnings, 0 messages)

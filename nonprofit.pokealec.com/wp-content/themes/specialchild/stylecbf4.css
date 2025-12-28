@@ -1,0 +1,344 @@
+/*
+Theme Name: SpecialChild
+Version: 1.0
+Description: A child theme of SpecialDivi
+Author: Poke
+Template: SpecialDivi
+*/
+
+@import url("../SpecialDivi/style.css");
+
+/* Miles McDonald */
+
+
+@import url('../../../../fonts.googleapis.com/css2bc84.css?family=Noto+Sans:ital,wght@0,100..900;1,100..900&amp;display=swap');
+
+
+p, h1, h2, h3, h4, h5, h6, a {
+  font-family: "Noto Sans", sans-serif;
+}
+p, h2, h3, h4 {
+  color: white;
+}
+h2, h3, h4{
+  font-weight: bold;
+}
+
+
+.mobile_menu_bar::before {
+  color: white;
+}
+.et_mobile_menu {
+  background: black;
+  border: 3px solid black;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.et_mobile_menu li a {
+  color: white;
+  padding: 10px 5%;
+  display: block;
+}
+element .page-container{
+  margin-top: -10px;
+  padding-top: 82px!important;
+}
+
+
+#main-footer{
+  background: black;
+}
+#main-header{
+  background: rgba(0 0 0 / 45);
+}
+
+.before::selection .et_pb_image .et_pb_image_wrap {
+  margin-top: 60%;
+}
+.et_builder_inner_content {
+  background: black;
+}
+
+#top-menu a {
+  color: #BDBDBD;
+}
+#top-menu li {
+  padding-right: 62px;
+}
+
+#home {
+  margin-bottom: 300px;
+
+}
+#home .notecard{
+  background: #72926A;
+  color: white;
+    text-align: center;
+  padding: 25px 10px 30px 10px
+}
+#home .notecard h2{
+  background: #72926A;
+  color: white;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+#home .notecard p{
+  padding: 0px 24px 30px 24px;
+  font-size: 20px
+}
+#home .et_pb_image {
+  position: absolute;
+    bottom: -560px;
+  transform: scale(.9)
+}
+@media (max-width: 767px){
+  #home img {
+    bottom: -675px;
+  }
+}
+
+
+#whatsgoingon {
+  background: #2C2C2C;
+}
+#whatsgoingon .et_pb_text_inner h2{   /* not currently working! */
+  text-align: left;
+  font-size: 39px;
+  /* need to fix line spacing */
+  border-left: .3rem solid white;
+  padding-left: 5%;
+}
+#whatsgoingon .et_pb_text_inner h3, .et_pb_text_inner p{
+  text-align: left;
+}
+
+
+/* Stick A */
+#whatsgoingon:before {
+  content: url(../../uploads/2025/04/stick-a.png);
+  position: absolute;
+  left: -50px;
+  top: -111px;
+  rotate: 2deg;
+	z-index: 3;
+}
+@media (max-width: 767px) {   /* not currently working! */
+  #whatsgoingon:before {
+    transform: scale(.5);
+    left: -300px;
+  }
+}
+
+
+#proof{
+  background: black;
+}
+#proof .et_pb_text_inner h2{
+  text-align: left;
+  border-left: .25rem solid white;
+  padding-left: 2%;
+  font-size: 34px;
+}
+.et_pb_slider .et_pb_slide {
+  background-color: #383838;
+}
+#proof .et_pb_module .et_pb_slides .et_pb_bg_layout_dark {
+  background: #383838;
+}
+#proof .et_pb_module .et_pb_slides .et_pb_bg_layout_dark h2 {
+  color: #7EB96E!important;
+  font-size: 36px;
+  font-weight: bold;
+}
+#proof .et_pb_slide_description {
+  margin-top: -10%;
+}
+#proof .et_pb_slide_title {
+  padding-bottom: 15px;
+}
+#proof .et-pb-controllers a {
+  padding: 7px;
+}
+#proof .wp-image-55 {
+  padding: 15px;
+}
+.et-pb-arrow-prev::before {
+  content: "\25C0";
+  color: #72A864;
+  font-size: 43px;
+}
+.et-pb-arrow-next::before {
+  content: "\25B6";
+  color: #72A864;
+  font-size: 43px;
+}
+.et-pb-controllers .et-pb-active-control {
+  background-color: #666666;
+}
+.et-pb-controllers a {
+  background-color: black;
+  text-indent: -9999px;
+  border-radius: 7px;
+  width: 7px;
+  height: 7px;
+  margin-right: 10px;
+  padding: 0;
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .et_pb_slide_image, .et_pb_slide_video {
+    display: inline!important;
+  }
+}
+
+@media (max-width: 767px) {
+  .et-pb-slider-arrows {
+    position: absolute;
+    bottom: 30px;
+    right: 100px;
+  }
+}
+
+
+/* Stick B */
+#proof:before {
+  content: url(../../uploads/2025/04/stick-b.png);
+  position: absolute;
+  right: -300px;
+  top: -90px;
+  rotate: -3deg;
+}
+@media (max-width: 767px) {   /* is not currently working! */
+  #proof:before {
+    /* -webkit-transform: scaleX(-1);  /* trying to flip image */
+    /* transform: scaleX(-1); */
+    transform: scale(.5);
+    left: -100px;
+    top: -102px;
+  }
+}
+
+
+.et_pb_divider {
+  text-align: center;
+}
+.et_pb_divider:before {
+  border-top-color: #56695B!important;
+  border-top: 5px solid;
+  width: 70%;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+
+
+#help{
+  background: #314336;
+}
+#help h4, #help p, #help h2{
+  text-align: center;
+}
+#help .et_pb_text_inner h2{   /* is currently working? */
+  font-size: 39px;
+}
+#help .et_pb_main_blurb_image {
+  max-width: 50%;
+}
+
+
+/* Stick C */
+#help:before {
+  content: url(../../uploads/2025/04/stick-c.png);
+  position: absolute;
+  left: -110px;
+  top: -184px;
+  rotate: -10deg;
+  z-index: 3;
+}
+@media (max-width: 767px) {   /* is currently working! */
+  #help:before {
+    transform: scale(.5);
+    top: -206px;
+    left: -400px;
+  }
+}
+
+
+#donate {
+  background-color: black;
+}
+#donate .et_pb_section .et_pb_with_background .et_section_regular{
+  padding-top: 50%!important;     /* This is not working! How can I be more specific? */
+}
+#donate h2 {
+  text-align: left;
+  border-left: .25rem solid white;
+  padding-left: 2%;
+  font-size: 34px;
+}
+@media (max-width: 767px) {
+  .et_pb_slide_content p {
+    font-size: 13px;
+    line-height: 1.5em!important;
+  }
+}
+
+
+/* Stick D */
+#donate:before {
+  content: url(../../uploads/2025/04/stick-d.png);
+  position: absolute;
+  right: -50px;
+  top: -115px;
+  rotate: -3deg;
+}
+@media (max-width: 767px) {   /* is not currently working! */
+  #donate:before {
+    /* -webkit-transform: scaleX(-1);  /* trying to flip image */
+    /* transform: scaleX(-1); */
+    transform: scale(.5);
+    left: -8px;
+    top: -108px;
+  }
+}
+
+
+.et_pb_module {
+  text-align: center;
+}
+.et_pb_button {
+  font-size: 17.7px;
+  font-weight: 600;
+  padding: 0.54em 1.5em;
+  line-height: 1.7em !important;
+  background-color: #72926A;
+  background-position: 50%;
+  border: 1px solid #314336;
+  border-radius: 32px;
+}
+a {
+  color: white;
+}
+.et_pb_button a:hover {
+  font-size: 17.7px;
+  font-weight: 600;
+  padding: 0.54em 1.5em;
+  border-radius: 32px;
+}
+.et_pb_button::after, .et_pb_button::before {
+  font-size: 27px;
+  line-height: 1.1em;
+  content: "\25B8";
+  margin-left: -1.70em;
+}
+
+
+#footer-bottom div #footer-info{
+  text-align: center;
+  color: white;
+  padding-bottom: 10px;
+  float: none;
+  display: flex;
+  justify-content: center;
+  gap: 5%
+}

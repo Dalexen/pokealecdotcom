@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.docs.google.com	TRUE	/document/d/1YkoysXgNSUTQvzjU7ML3i0pklHjqp0h9CtGNFeTbgSw	FALSE	1999999999	COMPASS	documents=CmIACWuJV1oTdwuK0ij7Cv7QhzqFh_uhZd23j7Q03ll0jlhrBk143s-b78nxDYAJPp9tNqDDy4EeTzVSsG8e4KCSVNw7E9Qk6ul9JppQGZgjfkTuuixrKEFdcjfbVhE-9QC_6xCQ8sDKBhpyAAlriVeuPVXlIBMN_0avyHM8agJpEWgAM5Xhv-KK_JIbcxkkvJ5wOpSvr2hB4gKqCW-VWoNJzxvitweAVUZaVDOlZ0ZdBje2NvCslOXMljoCsd9WTqpMleIN6Af_ND5iBkMw7tqlfjbDnxKJIpLyj_A3
+nonprofit.pokealec.com	TRUE	/	FALSE	1999999999	wfvt_516145302	69502af6b073e
+.docs.google.com	TRUE	/	FALSE	1999999999	GFE_RTT	185
+docs.google.com	TRUE	/	FALSE	1999999999	Priority	LOW
+docs.google.com	TRUE	/	FALSE	1999999999	SameSite	strict
+.google.com	TRUE	/	FALSE	1999999999	NID	527=d6SOouThtTKZwympZsOOo0Ukrd8K5vY34eYqfIz6WZvnIte8K8BCb3Qwc9LsBRJZdJiOqeb4NduA75_B48-N5o2k5b3iXoXe_A1WDd9GmeIYX-RaWCcFlSIMPdm4HytwnWVu7R4aI8qFbUj9ktIEBgHrd_3gPhGNxsLJzOIlSBwwXxdGzZr9g3NA98Uj9q9j4fOdz6YX0wiSYUVl8FY
+nonprofit.pokealec.com	TRUE	/	FALSE	1999999999	wfvt_948963202	69502b6bc3cdc
+nonprofit.pokealec.com	TRUE	/	FALSE	1999999999	wfvt_948963202	69502ca3346c8
+
